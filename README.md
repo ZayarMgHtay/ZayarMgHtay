@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, CyberSecurity community, known me as Inva1Id.
+I'm a passionate Cybersecurity Blue Team enthusiast with a strong interest in:
 
-<!--
-**ZayarMgHtay/ZayarMgHtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Threat Hunting & Detection Engineering
 
-Here are some ideas to get you started:
+🐍 Security Automation 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Digital Forensics & Incident Response (DFIR)
+
+🧠 Active Directory Penetration Testing & Defense
+
+💻 Endpoint Investigation (Windows, Linux)
+
+I work with SIEM tools, such as Splunk, ELK, and QRadar, to detect and respond to security incidents.
+
+I enjoy building hands-on skills through labs and real-world scenarios.
+I especially like doing challenges from [CyberDefenders](https://cyberdefenders.org) and writing detailed write-ups to share my investigations and learnings.
+
+📫 Reach Me
+Feel free to connect with me on:
+[Linkedin](https://www.linkedin.com/in/zayar-mg-htay/)
