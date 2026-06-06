@@ -1,4 +1,4 @@
-### Hi there 👋, CyberSecurity community, known me as Inva1Id.
+### Hi there 👋,
 I'm a passionate Cybersecurity Blue Team enthusiast with a strong interest in:
 
 🛡️ Threat Hunting & Detection Engineering
